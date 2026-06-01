@@ -1,0 +1,23 @@
+# Node Modules
+node_modules/
+dist/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Environment Variables (Maha Important - API Keys safe rakhne ke liye)
+.env
+
+# Database Data
+postgres_data/
+*.sqlite3
+
+# OS Files
+.DS_Store
+Thumbs.db
