@@ -1,0 +1,22 @@
+priomed-ai/
+├── docker-compose.yml
+├── backend/
+│   ├── .env
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   ├── database.py
+│   ├── models.py
+│   ├── agents.py
+│   ├── notifications.py
+│   └── main.py
+└── frontend/
+    ├── package.json
+    ├── tailwind.config.js
+    ├── vite.config.js
+    ├── Dockerfile
+    └── src/
+        ├── index.css
+        ├── main.jsx
+        ├── App.jsx
+        └── components/
+            └── MapTracker.jsx
